@@ -1,5 +1,9 @@
 # Trivia Video Generator
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/itsaqibdev/Trivia-Video-Generator-Bot/main/ico.ico" alt="App Icon" width="128" height="128">
+</p>
+
 A user-friendly Windows application that automatically generates engaging "Did You Know?" trivia videos perfect for YouTube Shorts. Simply select a category, choose how many questions you want, and let the app create a professional-looking video for you!
 
 ![App Home Screen](https://raw.githubusercontent.com/itsaqibdev/Trivia-Video-Generator-Bot/main/1.PNG)
