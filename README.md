@@ -28,10 +28,9 @@ The generated video will be named `trivia_video_[timestamp].mp4` (e.g., `trivia_
 
 ### Home Tab - Where the Magic Happens
 ![Home Tab](https://raw.githubusercontent.com/itsaqibdev/Trivia-Video-Generator-Bot/main/1.PNG)
-*Select category, number of questions, and generate your video*
 
-### About Tab - Developer Info
-![About Tab](https://raw.githubusercontent.com/itsaqibdev/Trivia-Video-Generator-Bot/main/2.PNG)
+*Select category, number of questions, and generate your video*
+(https://raw.githubusercontent.com/itsaqibdev/Trivia-Video-Generator-Bot/main/2.PNG)
 *Information about the developer and social links*
 
 ## Sample Video
