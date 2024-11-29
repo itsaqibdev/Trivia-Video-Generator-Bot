@@ -8,23 +8,14 @@ A Python application that automatically generates engaging "Did You Know?" trivi
 
 ## Screenshots
 
-<div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
-  <div style="flex: 1; margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/itsaqibdev/Trivia-Video-Generator-Bot/main/1.PNG" alt="Home Tab" width="400">
-    <p align="center"><em>Home Tab - Select category and generate videos</em></p>
-  </div>
-  <div style="flex: 1; margin-left: 10px;">
-    <img src="https://raw.githubusercontent.com/itsaqibdev/Trivia-Video-Generator-Bot/main/2.PNG" alt="About Tab" width="400">
-    <p align="center"><em>About Tab - Developer information</em></p>
-  </div>
-</div>
+| Home Tab | About Tab |
+|:---:|:---:|
+| ![Home Tab](https://raw.githubusercontent.com/itsaqibdev/Trivia-Video-Generator-Bot/main/1.PNG) | ![About Tab](https://raw.githubusercontent.com/itsaqibdev/Trivia-Video-Generator-Bot/main/2.PNG) |
+| *Select category and generate videos* | *Developer information* |
 
 ## Demo Video
 
-<video width="100%" controls>
-  <source src="https://raw.githubusercontent.com/itsaqibdev/Trivia-Video-Generator-Bot/main/trivia_video_20241128_202547.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/itsaqibdev/Trivia-Video-Generator-Bot/assets/trivia_video_20241128_202547.mp4
 
 [📥 Download Demo Video](https://raw.githubusercontent.com/itsaqibdev/Trivia-Video-Generator-Bot/main/trivia_video_20241128_202547.mp4)
 
