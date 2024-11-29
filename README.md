@@ -1,4 +1,4 @@
-# Trivia Video Generator (Source Code)
+# Trivia Video Generator Bot
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/itsaqibdev/Trivia-Video-Generator-Bot/main/ico.ico" alt="App Icon" width="128" height="128">
@@ -27,6 +27,10 @@ A Python application that automatically generates engaging "Did You Know?" trivi
 </video>
 
 [📥 Download Demo Video](https://raw.githubusercontent.com/itsaqibdev/Trivia-Video-Generator-Bot/main/trivia_video_20241128_202547.mp4)
+
+<video width="320" height="240" controls>
+  <source src="https://raw.githubusercontent.com/itsaqibdev/Trivia-Video-Generator-Bot/main/trivia_video_20241128_202547.mp4" type="video/mp4">
+</video>
 
 ## Prerequisites
 
